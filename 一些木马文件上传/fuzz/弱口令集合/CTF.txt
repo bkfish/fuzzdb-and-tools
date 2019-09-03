@@ -1,0 +1,14 @@
+.bak
+.txt
+.old
+.php~
+robots.txxt
+.swp
+.git
+/.DS_Store
+rar
+zip
+tar.gz
+phps
+index.php.txt
+flag.php
